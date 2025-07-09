@@ -15,29 +15,39 @@ We are building a protocol-first ecosystem that makes ethical commerce programma
 The MOMM ecosystem is built on three interconnected pillars:
 
 * **🛡️ TRUST: The Foundation**
-    Our decentralized protocol creates the world's first comprehensive, verifiable database of ethical product information, built on The Graph.
+  Our decentralized protocol creates the world's first comprehensive, verifiable database of ethical product information, built on The Graph.
 
 * **🫀 HEART: The Personalization Engine**
-    An AI-powered system that learns your personal values and filters TRUST data to align products with what matters most to you.
+  An AI-powered system that learns your personal values and filters TRUST data to align products with what matters most to you.
 
 * **🛒 MARKET: The Commerce Engine**
-    The engine for a new economy where being good is not only easy, it's incentivized. Where every product is verified by TRUST and aligned to your personal values through HEART AI, our response to the current systems harming our world.
+  The engine for a new economy where being good is not only easy, it's incentivized. Where every product is verified by TRUST and aligned to your personal values through HEART AI, our response to the current systems harming our world.
+
+### Our Open-Core Model
+
+MOMM operates on an **Open-Core** model. We believe in building public goods while creating a sustainable business to fund the mission.
+
+* **✅ Open Source Core:** The foundational `TRUST` protocol, smart contracts, public API documentation, and the `MARKET` frontend UI are open source. Contributions to these public goods are rewarded with equity and future tokens.
+
+* **🔒 Proprietary Layer:** Our competitive advantage—the data scraping/normalization engine and the trained `HEART` AI models—remains proprietary. We generate revenue by selling premium API access and enterprise services.
+
+This creates a powerful loop: revenue from our proprietary services funds the development and growth of the open-source core, ensuring the project's long-term health and rewarding our community of contributors.
 
 ### 🗺️ Our Roadmap
 
 Our development is phased to ensure a robust and scalable foundation.
 
 * **Phase 1: Foundation (In Progress)**
-    Building the core TRUST protocol, deploying smart contracts, and scraping initial data from over 50 certification bodies.
+  Building the core TRUST protocol, deploying smart contracts, and scraping initial data from over 50 certification bodies.
 
 * **Phase 2: MARKET Launch (Planned)**
-    Launching the beta version of the MARKET platform with our initial cohort of verified brand partners.
+  Launching the beta version of the MARKET platform with our initial cohort of verified brand partners.
 
 * **Phase 3: HEART AI Integration (Planned)**
-    Deploying the AI-powered personalization and ethical scoring system to create a truly unique shopping experience.
+  Deploying the AI-powered personalization and ethical scoring system to create a truly unique shopping experience.
 
 * **Phase 4: Scale & Governance (Planned)**
-    Expanding global certification support, launching an enterprise API, and transitioning to full DAO governance.
+  Expanding global certification support, launching an enterprise API, and transitioning to full DAO governance.
 
 ### ✋ How to Get Involved
 
