@@ -53,11 +53,9 @@ Our development is phased to ensure a robust and scalable foundation.
 
 We are a small, dedicated team looking for passionate contributors. Whether you're a developer, designer, or community builder, there are many ways to join our mission.
 
-* **💬 Join our Community:** The best place to start is by joining our [Community Hub](https://coruscating-twilight-56769a.netlify.app/community) to connect with the team and other contributors.
-
-* **💼 View Open Roles:** We have several high-priority roles we're looking to fill. Check out our [Contributors Page](https://coruscating-twilight-56769a.netlify.app/contributors) for more details.
-
-* **💡 Open an Issue:** Have an idea, a bug report, or want to introduce yourself? [Open an issue](https://github.com/momm-dao/momm-trust-landing-page/issues) and say hello!
+To see open roles, join the community, and learn more about how you can contribute, please visit us at:
+[
+www.momm.group](https://momm.group/)
 
 ### 🧪 Tech Stack
 
