@@ -1,113 +1,63 @@
-## Hi there welcome to MoralAuthority, a Passion Project 👋 🙋‍♀️ 
+# MOMM (Moral Oracle for Meaningful Markets)
 
-> ⚠️ **Important Note**  
-> This codebase reflects a **previous version** of Moral Authority, when it was being built as a multivendor ethical marketplace.  
-> As of **June 2025**, we’ve **pivoted** to a protocol-first architecture focused on decentralized trust verification, AI agent alignment, and federated product data.  
->
-> While the UI and backend in this repo are no longer actively maintained, we’re keeping it public as a record of our journey — and we’ll link new repos here as they launch.
->
-> ✅ See updated product direction below ↓
+Welcome! You've found the home of MOMM, a project dedicated to building a new engine for capitalism—one that rewards ethics, supports people, and heals our planet.
 
----
+We're not just building a marketplace. We're building a verifiable, community-owned ecosystem to power a regenerative economy. If you're passionate about using technology to create a more just and sustainable world, you're in the right place.
 
-Originally conceived as a multi-vendor ethical marketplace, **Moral Authority** has evolved into something more foundational:
+### The Vision: An Antidote to Extractive Commerce
 
-> A protocol for **verifying product claims**, **tracking brand certifications**, and **making ethical commerce programmable**.
+The modern e-commerce model is built on a foundation of exploitation—of people and the environment. It's a system that optimizes for profit at the expense of our values. **MOMM is the antidote.**
 
-With MOMM, we aim to give consumers tools to shop by what they value — not just what's marketed — and give brands a transparent, verifiable way to prove their impact.
+We are building a protocol-first ecosystem that makes ethical commerce programmable. By creating a transparent, verifiable, and decentralized trust layer, we can create a new set of incentives that reward brands for doing good and empower consumers to shop their values with cryptographic certainty.
 
-🌈 [Please sign up here to volunteer](https://docs.google.com/forms/d/e/1FAIpQLScy40j_1cKaDunuKNfzWs_60GK3Vz4643qkxNv1LN9t3jDNDw/viewform)  
-👩‍💻 Useful resources — technical docs and roadmap coming soon!
+### Core Components
 
----
+The MOMM ecosystem is built on three interconnected pillars:
 
-# Moral Authority 🧠🌱
+* **🛡️ TRUST: The Foundation**
+    Our decentralized protocol creates the world's first comprehensive, verifiable database of ethical product information, built on The Graph.
 
-**Moral Authority** is building the internet’s trust layer for ethical commerce.  
-We're evolving from a multi-vendor marketplace into a federated platform for:
+* **🫀 HEART: The Personalization Engine**
+    An AI-powered system that learns your personal values and filters TRUST data to align products with what matters most to you.
 
-- Verifying ethical claims  
-- Indexing trust data  
-- Empowering values-based purchasing
+* **🛒 MARKET: The Commerce Engine**
+    The engine for a new economy where being good is not only easy, it's incentivized. Where every product is verified by TRUST and aligned to your personal values through HEART AI, our response to the current systems harming our world.
 
----
+### 🗺️ Our Roadmap
 
-### 🔍 Current Focus (Q2–Q3 2025)
+Our development is phased to ensure a robust and scalable foundation.
 
-We’re currently building:
+* **Phase 1: Foundation (In Progress)**
+    Building the core TRUST protocol, deploying smart contracts, and scraping initial data from over 50 certification bodies.
 
-🖥️ **Phase 1: Web-Based Vendor Dashboard**  
-- Built with Plasmic + React  
-- OAuth integration with Shopify and Etsy  
-- Unified dashboard to view and (eventually) update listings  
-- Live backend: Node.js + Postgres
+* **Phase 2: MARKET Launch (Planned)**
+    Launching the beta version of the MARKET platform with our initial cohort of verified brand partners.
 
-🔎 **Phase 2: Auto-Verification Engine (starting with B Corp)**  
-- Crawls public certifier data (e.g. B Corp)  
-- Matches vendors to certifications  
-- Verified certifications are logged as events to smart contracts  
-- Indexed by The Graph and surfaced via our public TRUST subgraph
+* **Phase 3: HEART AI Integration (Planned)**
+    Deploying the AI-powered personalization and ethical scoring system to create a truly unique shopping experience.
 
-📡 **Phase 3: Federation Layer (ActivityPub)**  
-- Ethical product listings, claims, and certifications published as ActivityPub objects  
-- Buyer apps, Mastodon clients, and certifier feeds can follow vendor updates  
-- Groundwork for zero-knowledge proofs (ZKPs) for privacy-preserving claims
+* **Phase 4: Scale & Governance (Planned)**
+    Expanding global certification support, launching an enterprise API, and transitioning to full DAO governance.
 
----
+### ✋ How to Get Involved
 
-### 💡 Core Components
+We are a small, dedicated team looking for passionate contributors. Whether you're a developer, designer, or community builder, there are many ways to join our mission.
 
-- **MOMM** = *Moral Oracle for Meaningful Markets*  
-  The protocol logic and coordination layer
+* **💬 Join our Community:** The best place to start is by joining our [Community Hub](https://coruscating-twilight-56769a.netlify.app/community) to connect with the team and other contributors.
 
-- **TRUST** = *Tamper-Resistant Universal Standards Tracker*  
-  Smart contracts + subgraph infrastructure for verified certifications and claims
+* **💼 View Open Roles:** We have several high-priority roles we're looking to fill. Check out our [Contributors Page](https://coruscating-twilight-56769a.netlify.app/contributors) for more details.
 
-- **LENS** = *Layer for Ethical Networked Scores*  
-  AI-generated trust scoring personalized to each user’s values
+* **💡 Open an Issue:** Have an idea, a bug report, or want to introduce yourself? [Open an issue](https://github.com/momm-dao/momm-trust-landing-page/issues) and say hello!
 
----
+### 🧪 Tech Stack
 
-### 📚 Repo Status
+* **Frontend:** React, Next.js, Plasmic
+* **Backend:** Node.js (planning a transition to Go)
+* **Database:** PostgreSQL via Supabase
+* **Smart Contracts:** Solidity (Polygon zkEVM)
+* **Indexing:** The Graph Protocol
+* **Federation:** ActivityPub (planned)
 
-> ⚠️ This repo currently contains early marketplace code and brand documentation.
+### 🛠️ Legacy Code Notice
 
-✅ We’re migrating toward a modular structure:
-
-- `/dashboard` – Plasmic + React UI  
-- `/contracts` – Solidity contracts + Graph subgraph  
-- `/infra` – Node.js backend and Make.com workflows  
-- `/docs` – Technical roadmap, governance model, API specs (coming soon)
-
----
-
-### 🧪 Live Work (2025 Dev Stack)
-
-- **Frontend:** Plasmic + React  
-- **Backend:** Node.js (Go transition planned) + PostgreSQL  
-- **Infra:** Supabase, Make.com, Tally  
-- **Smart Contracts:** Solidity + Polygon zkEVM  
-- **Indexing:** The Graph Protocol (subgraph in progress)  
-- **Federation:** ActivityPub with JSON-LD format
-
----
-
-### ✋ Want to get involved?
-
-We welcome engineers, product thinkers, and researchers interested in:
-
-- Decentralized identity & verifiability  
-- Subgraph and certification schema design  
-- Multi-agent architecture & ethical AI tooling
-
-📩 DM or [open an issue](#) to say hello.
-
----
-
-### 🛠️ Repo Cleanup / Legacy Notice
-
-If you're browsing historical commits:
-
-> This repo represents an early-stage marketplace MVP. We've since **pivoted to a protocol-first architecture** focused on verifiable data infrastructure for the ethical commerce ecosystem — while preserving the mission to make ethical shopping accessible and real.
-
----
+> ⚠️ This repo represents an early-stage marketplace MVP. We've since **pivoted to a protocol-first architecture** focused on verifiable data infrastructure for the ethical commerce ecosystem — while preserving the mission to make ethical shopping accessible and real.
