@@ -1,5 +1,7 @@
 # MOMM (Moral Oracle for Meaningful Markets)
 
+### PLEASE VISIT OUR WEBSITE FOR A MORE UPDATED DESCRIPTION WHILE WE WORK ON THIS <3 https://www.momm.group
+
 Welcome! You've found the home of MOMM, a project dedicated to building a new engine for capitalism—one that rewards ethics, supports people, and heals our planet.
 
 We're not just building a marketplace. We're building a verifiable, community-owned ecosystem to power a regenerative economy. If you're passionate about using technology to create a more just and sustainable world, you're in the right place.
